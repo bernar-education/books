@@ -1,3 +1,5 @@
+# Big O notation: O(1) for add_front, O(n) for size, search, and remove
+
 import dataclasses
 import typing
 

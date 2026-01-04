@@ -1,3 +1,5 @@
+# Big O notation: O(1) for add/remove operations at both ends, O(n) for peek operations
+
 import dataclasses
 
 
